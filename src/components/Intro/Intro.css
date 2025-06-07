@@ -1,0 +1,19 @@
+.intro {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    height: 100vh;
+}
+.intro .description {
+    margin: 10px 40px;
+}
+.intro h1, .intro h2 {
+    color: var(--darkpink);
+}
+.intro h1 {
+    font-size: 2rem;
+}
+.intro h2 {
+    font-size: 1.2rem;
+}

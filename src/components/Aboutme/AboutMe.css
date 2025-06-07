@@ -1,0 +1,71 @@
+.aboutme {
+    height: auto;
+    padding: 150px 40px;
+}
+.aboutme-container-picture img {
+    width: 100%;
+    border-radius: 500px;
+    border: 8px solid white;
+}
+.tab {
+    margin-top: 10px;
+    margin-right: 15px;
+    font-size: 18px;
+    font-weight: 500;
+    cursor: pointer;
+    position: relative;
+}
+.tab::after {
+    content: '';
+    width: 0;
+    height: 3px;
+    background: var(--maroon);
+    border-radius: 20px;
+    position: absolute;
+    left: 0;
+    bottom: -5px;
+    transition: 0.5s;
+}
+.tab.active-tab::after {
+    width: 80%;
+}
+.content {
+    margin: 20px 0px;
+    display: none;
+}
+.active-content {
+    display: block;
+}
+.skills li {
+    display: flex !important;
+    gap: 8px;
+}
+.content ul li{
+    display: inline;
+}
+.content ul li span {
+    font-weight: 700;
+    color: var(--maroon);
+}
+.certificate button {
+    display: flex;
+    align-items: center;
+    gap: 5px;
+    text-decoration: underline;
+    color: var(--maroon);
+    cursor: pointer;
+}
+
+
+@media (max-width: 600px) {
+    .aboutme {
+        padding: 100PX 26px;
+    }
+    .aboutme-container-info {
+        margin-top: -20px;
+    }
+    .aboutme-container-picture {
+        flex-basis: 50%;
+        margin-left: auto;
+    }
+}

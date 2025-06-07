@@ -1,0 +1,17 @@
+.footer {
+    background: var(--maroon);
+    color: white;
+    height: 10vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+@media (max-width: 600px) {
+    .footer{
+        font-size: 12px;
+        height: 6vh;
+    }
+}
+

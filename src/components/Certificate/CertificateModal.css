@@ -1,0 +1,27 @@
+.certificate-container, .modal {
+    position: fixed;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    z-index: 120;
+    color: white;
+}
+.certificate-bg {
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    background-color: rgba(0, 0, 0, 0.8);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.certificate-content {
+    text-align: center;
+}
+.certificate-content img {
+    width: 680px;
+    border-radius: 0px;
+}
