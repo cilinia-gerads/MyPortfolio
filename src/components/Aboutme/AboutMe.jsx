@@ -30,8 +30,8 @@ const AboutMe = () => {
           <p className='description'>
             My name is Siriprapa Gerads or Nia,
             I started learning to code about 10 months ago  
-            Before that, I was learning UX/UI design, which gave me a huge advantage when I shifted into frontend development. 
-            I've been fully focused on improving my skills in HTML, CSS, JavaScript, and React. I enjoy bringing designs to life in the browser. and I'm excited to keep growing as a frontend developer
+            before that, I was learning UX/UI design, which gave me a huge advantage when I shifted into frontend development. 
+            I've been fully focused on improving my skills in HTML, CSS, JavaScript, and React. I enjoy bringing designs to life in the browser and I'm excited to keep growing as a frontend developer
           </p>
           <br />
           {/* tab-title */}
@@ -79,11 +79,11 @@ const AboutMe = () => {
                   <CertificateModal title="Front End Development Libraries" image={certi2}/>
                 </li>
                 <br />
-                <li><strong>GreadStack</strong> Foundation JavaScript
-                  <CertificateModal title="Foundation JavaScript" image={certi3} />
+                <li><strong>GreadStack</strong> JavaScript Fundamentals
+                  <CertificateModal title="JavaScript Fundamentals" image={certi3} />
                 </li><br />
-                <li><strong>GreadStack</strong> React Hook
-                  <CertificateModal title="React Hook" image={certi4} />
+                <li><strong>GreadStack</strong> React Hooks
+                  <CertificateModal title="React Hooks" image={certi4} />
                 </li>
                 <br />
               </ul>
@@ -93,7 +93,7 @@ const AboutMe = () => {
             className={activeTab === 3 ? "content active-content" : "content"}
             onClick={() => toggleTab(3)}>
               <ul>
-                <li><span>2022</span><br /><strong> Mea Fah Luang University</strong> Bachelor of Business Administration (Tourism Management)</li><br />
+                <li><span>2022</span><br /><strong> Mae Fah Luang University</strong> Bachelor of Business Administration (Tourism Management)</li><br />
                 <br />
                 <li><span>2024</span><br /><strong> Mydemy</strong> Fundamental UX/UI</li><br />
                 <br />

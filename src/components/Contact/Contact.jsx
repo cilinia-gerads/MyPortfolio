@@ -38,7 +38,7 @@ const Contact = () => {
         {/* left */}
         <div className='contact-left basis-[35%]'>
           <h2>Let's work together!</h2>
-          <p>I'm currently looking for job opportunities. feel free to leave a message or contact me anytime. — I'd love to hear from you!</p>
+          <p>I'm currently looking for job opportunities. Feel free to leave a message or contact me anytime. — I'd love to hear from you!</p>
           {/* contact-details */}
           <div className='contact-detail'>
             <br />

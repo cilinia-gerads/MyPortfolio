@@ -18,7 +18,7 @@ const all_project = [
     {
         no: 2,
         name: "ToDo List",
-        description: "a to-do list, I built to practice my JavaScript skills. uses localStorage to save data, so your tasks won't disappear when you refresh the page.",
+        description: "a to-do list, I built to practice my JavaScript skills. Uses localStorage to save data, so your tasks won't disappear when you refresh the page.",
         img: ToDoList,
         saucecode: "https://github.com/cilinia-gerads/ToDo-List",
         livedemo: "https://todolistjavascriptbasic.netlify.app/",
