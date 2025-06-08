@@ -45,7 +45,7 @@ const all_project = [
     {
         no: 5,
         name: "Drum Machine",
-        description: "Drum Machine project from FreeCodeCamp. Built with React. Users can play drum sounds by clicking buttons or using keyboard keys. Fulfills all FCC test requirements.",
+        description: "Drum Machine project from FreeCodeCamp. Built with React. Users can play drum sounds by clicking buttons or using keyboard keys.",
         img: DrumMachine,
         saucecode: "https://github.com/cilinia-gerads/FCC-Drum-Machine",
         livedemo: "https://freecodecampdrummachine.netlify.app/",
