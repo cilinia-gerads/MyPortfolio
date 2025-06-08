@@ -79,10 +79,10 @@ const AboutMe = () => {
                   <CertificateModal title="Front End Development Libraries" image={certi2}/>
                 </li>
                 <br />
-                <li><strong>GreadStack</strong> JavaScript Fundamentals
+                <li><strong>GreatStack</strong> JavaScript Fundamentals
                   <CertificateModal title="JavaScript Fundamentals" image={certi3} />
                 </li><br />
-                <li><strong>GreadStack</strong> React Hooks
+                <li><strong>GreatStack</strong> React Hooks
                   <CertificateModal title="React Hooks" image={certi4} />
                 </li>
                 <br />
