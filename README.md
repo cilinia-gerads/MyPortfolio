@@ -11,4 +11,4 @@ I'm a self-taught front-end developer with 10 months of experience, driven by cu
 
 ## Contact Component
 Send Contact form data on email
-- [Web3Forms](https://web3forms.com/)# MyPortfolio
+- [Web3Forms](https://web3forms.com/)
