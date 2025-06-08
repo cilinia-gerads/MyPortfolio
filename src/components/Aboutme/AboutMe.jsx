@@ -30,7 +30,7 @@ const AboutMe = () => {
           <p className='description'>
             My name is Siriprapa Gerads or Nia,
             I started learning to code about 10 months ago  
-            before that, I was learning UX/UI design, which gave me a huge advantage when I shifted into frontend development. 
+            before that, I was learning UX/UI design, which gave me a good advantage when I shifted into frontend development. 
             I've been fully focused on improving my skills in HTML, CSS, JavaScript, and React. I enjoy bringing designs to life in the browser and I'm excited to keep growing as a frontend developer
           </p>
           <br />
