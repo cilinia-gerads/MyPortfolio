@@ -15,15 +15,15 @@ const all_project = [
         livedemo: "https://campcrag.netlify.app/",
         language: [ "React", "DaisyUI", "Tailwind", "React Lucide", "React Slick", "React-toastity"]
     },
-    {
-        no: 2,
-        name: "ToDo List",
-        description: "a to-do list, I built to practice my JavaScript skills. Uses localStorage to save data, so your tasks won't disappear when you refresh the page.",
-        img: ToDoList,
-        saucecode: "https://github.com/cilinia-gerads/ToDo-List",
-        livedemo: "https://todolistjavascriptbasic.netlify.app/",
-        language: [ "HTML", "CSS", "JavaScript" ]
-    },
+    // {
+    //     no: 2,
+    //     name: "ToDo List",
+    //     description: "a to-do list, I built to practice my JavaScript skills. Uses localStorage to save data, so your tasks won't disappear when you refresh the page.",
+    //     img: ToDoList,
+    //     saucecode: "https://github.com/cilinia-gerads/ToDo-List",
+    //     livedemo: "https://todolistjavascriptbasic.netlify.app/",
+    //     language: [ "HTML", "CSS", "JavaScript" ]
+    // },
     {
         no: 3,
         name: "JavaScript Calculator",
