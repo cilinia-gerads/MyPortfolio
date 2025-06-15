@@ -26,21 +26,21 @@ const all_project = [
     // },
     {
         no: 3,
-        name: "JavaScript Calculator",
-        description: "A basic calculator project from FreeCodeCamp, built with JavaScript using OOP. Supports chained operations, decimals and basic arithmetic",
-        img: calculator,
-        saucecode: "https://github.com/cilinia-gerads/FCC-JavaScript-Calculator?tab=readme-ov-file",
-        livedemo: "https://freecodecampjavascriptcalculator.netlify.app/",
-        language: [ "HTML", "CSS", "JavaScript"]
-    },
-    {
-        no: 4,
         name: "Pomodoro Clock",
         description: "Pomodoro Clock project from FreeCodeCamp. Built with React. Supports custom session/break lengths, start, pause, and reset.",
         img: Pomodoro,
         saucecode: "https://github.com/cilinia-gerads/FCC-twentyfive-plus-five-clock?tab=readme-ov-file",
         livedemo: "https://freecodecampatwentyfiveplusfiveclock.netlify.app/",
         language: [ "HTML", "CSS", "JavaScript", "React" ]
+    },
+    {
+        no: 4,
+        name: "JavaScript Calculator",
+        description: "A basic calculator project from FreeCodeCamp, built with JavaScript using OOP. Supports chained operations, decimals and basic arithmetic",
+        img: calculator,
+        saucecode: "https://github.com/cilinia-gerads/FCC-JavaScript-Calculator?tab=readme-ov-file",
+        livedemo: "https://freecodecampjavascriptcalculator.netlify.app/",
+        language: [ "HTML", "CSS", "JavaScript"]
     },
     {
         no: 5,
