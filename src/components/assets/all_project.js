@@ -12,7 +12,7 @@ const all_project = [
         description: "This is an E-commerce project I built for learning and practicing front-end development.",
         img: campcrag,
         saucecode: "https://github.com/cilinia-gerads/CampCrag.git",
-        livedemo: "https://campcrag.netlify.app/",
+        livedemo: "https://campcraglivedemo.netlify.app/",
         language: [ "React", "DaisyUI", "Tailwind", "React Lucide", "React Slick", "React-toastity"]
     },
     // {
